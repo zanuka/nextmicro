@@ -1,1 +1,4 @@
-# next-level
+### nexstatic
+
+exploring next.js
+
