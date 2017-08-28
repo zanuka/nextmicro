@@ -1,15 +1,10 @@
-[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/zeit/next.js/tree/master/examples/custom-server-koa)
+# nextmicro
 
-# nexstatic
+premium quality app starter :: focused on all things micro 
 
-premium quality admin app starter
-
-
-* [next.js][next.js]
+* [next][next]
 * [koa][koa]
-
-[next.js]: https://github.com/zeit/next.js
-[koa]: https://github.com/koajs/koa
+* [now][now]
 
 #### License (MIT)
 
@@ -18,7 +13,7 @@ premium quality admin app starter
   _`\<,_  
  (*)/ (*)  
 ```
-Copyright (c) 2017-present Zanuka, Ltd.
+Copyright (c) 2017-present ZANUKA, Ltd.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -26,3 +21,6 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+[next]: https://github.com/zeit/next
+[koa]: https://github.com/koajs/koa
+[now]: https://deploy.now.sh/?repo=https://github.com/zeit/next/tree/master/examples/custom-server-koa
